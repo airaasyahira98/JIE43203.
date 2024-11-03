@@ -71,9 +71,6 @@ del newdata['education_2n Cycle']
 del newdata['Z_CostContact']
 del newdata['Z_Revenue']
 
-
-
-
 # check again the null value to ensure it already drop the column
 newdata.isnull().any()
 
