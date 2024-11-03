@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
 from sklearn.svm import OneClassSVM
-
+import streamlit as st
 # Generate synthetic data for clustering
 X, _ = make_blobs(n_samples=300, centers=4, cluster_std=0.60, random_state=0)
 
