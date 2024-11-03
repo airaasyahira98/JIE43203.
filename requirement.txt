@@ -1,4 +1,0 @@
-scikit_learn
-numpy
-streamlit
-matplotlib
