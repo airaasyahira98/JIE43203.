@@ -1,4 +1,4 @@
-steamlit
+streamlit
 numpy
 matplotlib
 scikit_learn
